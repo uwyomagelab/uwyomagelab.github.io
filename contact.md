@@ -6,16 +6,15 @@ subtitle:
 
 <html>
 <body>
-   <a href= "mailto: amann3@clemson.edu"> Email</a>
+   <a href= "mailto: amann11@uwyo.edu"> Email</a>
 </body>
 </html>
 
-Clemson University
+University of Wyoming
 <br>
-Jordan Hall #111
+George C. Frison Hall Room 210
 <br>
-Clemson, SC, 29634
+Laramie, WY
 
 
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6562.2186944258265!2d-82.83922881041877!3d34.677189614681986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88585e6db32ea643%3A0x5b8d975dea3eefe6!2sJordan%20Hall%2C%20Clemson%2C%20SC%2029631!5e0!3m2!1sen!2sus!4v1712258590447!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:500px;height:500px;"><div id="canvas-for-googlemap" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=University+of+wyoming+anthropology&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="my-codefor-googlemap" rel="nofollow" href="https://kbj9qpmy.com/bp" id="grab-map-authorization">Internet Provider</a><style>#canvas-for-googlemap img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div>

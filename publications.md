@@ -1,7 +1,52 @@
 ---
 layout: page
 title: Publications
-subtitle: 
+subtitle: Selected publications and preprints
 ---
 
-/////////
+Lab member names in **bold**
+
+### 2024
+
+- [*Metagenomic and paleopathological analyses of a historic documented collection explore ancient dental calculus as a diagnostic tool*](https://www.nature.com/articles/s41598-024-64818-7). RM Austin, TP Honap, **AE Mann**, A Hübner, CMS DeGaglia, C Warinner, MK Zuckerman, CA Hofman. *Scientific Reports*. 2024
+
+- [*Heterogeneous lineage-specific arginine deiminase expression within dental microbiome species*](https://journals.asm.org/doi/10.1128/spectrum.01445-23). **AE Mann**, B Chakraborty, LM O'Connell, MM Nascimento, RA Burne, VP Richards. *Microbiology Spectrum*. 2024
+
+<hr>
+
+### 2023
+
+- [*Impact of HIV on the oral microbiome of children living in Sub-Saharan Africa, Determined by using an rpoC gene fragment metataxonomic approach*](https://journals.asm.org/doi/10.1128/spectrum.00871-23). **AE Mann**, LM O'Connell, E Osagie, P Akhigbe, O Obuekwe, A Omoigberale, C Kelly, M Coker, VP Richards. *Microbiology Spectrum*. 2023
+- [*Do I have something in my teeth? The trouble with genetic analyses of diet from archaeological dental calculus*](https://www.sciencedirect.com/science/article/pii/S1040618220307746). **AE Mann**, JA Fellows Yates, Z Fagernäs, RM Austin, EA Nelson, CA Hofman. *Quaternary International*. 2023
+
+<hr>
+
+### 2022
+
+- [*The devil is in the details: Variable impacts of season, BMI, sampling site temperature, and presence of insects on the post-mortem microbiome*](https://www.frontiersin.org/articles/10.3389/fmicb.2022.1064904/full). AM Tarone, **AE Mann**, Y Zhang, RR Zascavage, EA Mitchell, E Morales, TW Rusch, MS Allen. *Frontiers in Microbiology*. 2022
+
+<hr>
+
+### 2020
+
+- [*Comparison of the bacterial gut microbiome of North American Trypanosoma spp. with and without Trypanosoma cruzi*](https://www.frontiersin.org/articles/10.3389/fmicb.2020.00364/full). **AE Mann**, EA Mitchell, Y Zhang, R Curtis-Robles, S Thapa, SA Hamer, MS Allen. *Frontiers in Microbiology*. 2020
+- [*Biodiversity of protists and nematodes in the wild non-human primate gut*](https://www.nature.com/articles/s41396-019-0551-4). **AE Mann**, F Mazel, MA Lemay, E Morien, V Billy, M Kowalewski, A Di Fiore, A Link, TL Goldberg, S Tecot, AL Baden, A Gomez, ML Sauther, FP Cuozzo, GAO Rice, NJ Dominy, R Stumpf, RJ Lewis, L Swedell, K Amato, L Parfrey. *The ISME Journal*. 2020
+
+<hr>
+
+### 2018
+
+- [*Differential preservation of endogenous human and microbial DNA in dental calculus and dentin*](https://www.nature.com/articles/s41598-018-28091-9). **AE Mann**, S Sabin, KA Ziesemer, Å Vågene, H Schroeder, A Ozga, K Sankaranarayanan, CA hofman, JA Fellows Yates, DC Salazar-Garcia, B Frohlich, M Aldenderfer, M Hoogland, C Read, J Krause, C Hofman, K Bos, C Warinner. *Scientific Reports*. 2018
+
+<hr>
+
+### 2017
+
+- [*A robust framework for microbial archaeology*](https://www.annualreviews.org/doi/full/10.1146/annurev-genom-091416-035526). C Warinner, A Herbig, **AE Mann**, JA Fellows Yates, CL Weiss, HA Burbano, L Orlando, J Krause. *Annual Review of Genomics and Human Genetics*. 2017
+
+
+<hr>
+
+### 2015
+
+- [*Intrinsic challenges in ancient microbiome reconstruction using 16S rRNA gene amplification*](https://www.nature.com/articles/srep16498). KA Ziesemer, **AE Mann** K Sankaranarayanan, H Schroeder, A Ozga, BW Brandt, E Zaura, A Waters-Rist, M Hoogland, DC Salazar-Garcia, M Aldenderfer, C Speller, J Hendy, DA Weston, SJ MacDonald, GH Thomas, MJ Collins, CM Lewis, C Hofman, C Warinner. *Scientific Reports*. 2015
