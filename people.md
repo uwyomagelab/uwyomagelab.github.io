@@ -18,3 +18,7 @@ style="font-size:25px;padding-left:5px;padding-right:5px"></i></a>
 
 
 <hr>
+
+**Your face here!**
+
+I'm currently accepting graduate students interested in molecular anthropology, the oral microbiome, and bioinformatics!
