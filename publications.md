@@ -16,7 +16,12 @@ Lab member names in **bold**
 
 ### 2023
 
+- [*A synthetic formula amino acid diet leads to microbiome dysbiosis, reduced colon length, inflammation, and altered locomoter activity in C57BL/6J mice*](https://www.mdpi.com/2076-2607/11/11/2694/htm). VJ Mancilla, PN Braden-Kuhle, KN Brice, **AE Mann**, MT Williams, Y Zhang, MJ Chumley, RC Barber, SN White, GW Boehm, MS Allen. *Microorganisms*. 2023
+
 - [*Impact of HIV on the oral microbiome of children living in Sub-Saharan Africa, Determined by using an rpoC gene fragment metataxonomic approach*](https://journals.asm.org/doi/10.1128/spectrum.00871-23). **AE Mann**, LM O'Connell, E Osagie, P Akhigbe, O Obuekwe, A Omoigberale, C Kelly, M Coker, VP Richards. *Microbiology Spectrum*. 2023
+
+- [*The eukaryome of African children is influenced by geographic location, gut biogeography, and nutritional status*](https://academic.oup.com/microlife/advance-article/doi/10.1093/femsml/uqad033/7227336?searchresult=1). P Vonaesch, V Billy, **AE Mann**, E Morien, A Habib, JM Collard M Dédé, N Kapel, PJ Sansonetti, L Parfrey. *microLife*. 2023
+
 - [*Do I have something in my teeth? The trouble with genetic analyses of diet from archaeological dental calculus*](https://www.sciencedirect.com/science/article/pii/S1040618220307746). **AE Mann**, JA Fellows Yates, Z Fagernäs, RM Austin, EA Nelson, CA Hofman. *Quaternary International*. 2023
 
 <hr>
@@ -27,10 +32,25 @@ Lab member names in **bold**
 
 <hr>
 
+### 2021
+
+- [*Dental caries and its association with the oral microbiomes and HIV in young children - Nigeria (DOMHaIN): a cohort study*](https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-021-01944-y). MO Coker, P Akhigbe, E Osagie, NL Idemudia, O Igedegbe, N Chukwumah, R Adebiyi, **AE Mann**, LM O'Connell, O Obuekwe, A Omoigberale, M Charurat, VP Richards. *BMC Oral Health*. 2021
+
+- [*The evolution and changing ecology of the African hominid oral microbiome*](https://www.pnas.org/content/118/20/e2021655118). JA Fellows Yates, IM Velsko, F Aron, C Posth, CA Hofman, RM Austin, CE Parker, **AE Mann**, K Nägele, K Weedman Arthur, JW Arthur, CC Bauer, I Crevecoeur, C Cupillard, MC Curtis, L Dalén, M Díaz-Zorita Bonilla, JC Díez Fernández-Lomana, DG Drucker, E Escribano Escrivá, M Francken, VE Gibbon, M Gonzalez Morales, A Grande Mateu, K Harvati, AG Henry, L Humphrey, M Menéndez, D Mihailović, M Peresani, S Rodríguez Moroder, M Roksandic, H Rougier, S Sázelová, JT Stock, G Straus, J Svoboda, B Teßmann, MJ Walker, RC Power, CM Lewis, K Sankaranarayanan, K Guschanski, R Wrangham, FE Dewhirst, DC Salazar-Garcia, J Krause, A Herbig, C Warinner. *PNAS*. 2021
+
+<hr>
+
 ### 2020
 
 - [*Comparison of the bacterial gut microbiome of North American Trypanosoma spp. with and without Trypanosoma cruzi*](https://www.frontiersin.org/articles/10.3389/fmicb.2020.00364/full). **AE Mann**, EA Mitchell, Y Zhang, R Curtis-Robles, S Thapa, SA Hamer, MS Allen. *Frontiers in Microbiology*. 2020
+
 - [*Biodiversity of protists and nematodes in the wild non-human primate gut*](https://www.nature.com/articles/s41396-019-0551-4). **AE Mann**, F Mazel, MA Lemay, E Morien, V Billy, M Kowalewski, A Di Fiore, A Link, TL Goldberg, S Tecot, AL Baden, A Gomez, ML Sauther, FP Cuozzo, GAO Rice, NJ Dominy, R Stumpf, RJ Lewis, L Swedell, K Amato, L Parfrey. *The ISME Journal*. 2020
+
+<hr>
+
+### 2019
+
+- [*The efficacy of whole genome capture on ancient dental calculus and dentin*](https://onlinelibrary.wiley.com/doi/full/10.1002/ajpa.23763). KA Ziesemer, J Ramos-Madrigal, **AE Mann**, BW Brandt, K Sankaranarayanan, AT Ozga, M Hoogland, CA Hofman, DC Salazar-Garcia, B Frohlich, GR Milner, AC Stone, M Aldenderfer, CM Lewis, CL Hofman, C Warinner, H Schroeder. *American Journal of Physical Anthropology*. 2019
 
 <hr>
 
