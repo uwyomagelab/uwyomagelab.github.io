@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: University of Wyoming Molecular Anthropology Lab
+title: University of Wyoming MAGE Lab
 
 # Your name to show in the footer
 author: Allison E. Mann
@@ -23,6 +23,7 @@ navbar-links:
   People: "people"
   Research: "research"
   Publications: "publications"
+  Lab: "facilities"
   Resources:
     - UW Anth: "https://www.uwyo.edu/anthropology/index.html"
     - Contact: "contact"
