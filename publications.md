@@ -8,6 +8,8 @@ Lab member names in **bold**
 
 ### 2024
 
+- [*Genetic evidence points to distinct paternal settlers of the Faroe Islands anc Iceland*](). **AE Mann**, E Magnussen, CR Tillquist. *Frontiers in Genetics*. 2024
+
 - [*Metagenomic and paleopathological analyses of a historic documented collection explore ancient dental calculus as a diagnostic tool*](https://www.nature.com/articles/s41598-024-64818-7). RM Austin, TP Honap, **AE Mann**, A Hübner, CMS DeGaglia, C Warinner, MK Zuckerman, CA Hofman. *Scientific Reports*. 2024
 
 - [*Heterogeneous lineage-specific arginine deiminase expression within dental microbiome species*](https://journals.asm.org/doi/10.1128/spectrum.01445-23). **AE Mann**, B Chakraborty, LM O'Connell, MM Nascimento, RA Burne, VP Richards. *Microbiology Spectrum*. 2024
