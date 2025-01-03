@@ -66,7 +66,7 @@ body {
       <img src="hiv.png" style="width:300px, height:200px">
     </div>
     <div class="flip-box-back">
-      <a href="https://aemann01.github.io/projects/hiv_oral_microbiome/"><p>HIV and the Oral Microbiome</p></a>
+      <a href="https://aemann01.github.io/projects/hiv_oral_microbiome/"><p>The role of the human oral microbiome in health and disease</p></a>
     </div>
   </div>
 </div>
