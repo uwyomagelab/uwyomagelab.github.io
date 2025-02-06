@@ -19,6 +19,13 @@ style="font-size:25px;padding-left:5px;padding-right:5px"></i></a>
 
 <hr>
 
+**Dr. Gomathi Nayagam Sankaranarayanan, Postdoctoral Research Fellow** 
+<br/>
+<br/>I am a life sciences researcher with expertise in microbiomes, metagenomics, and evolution. My work spans ancient and modern microbial communities, with a focus on understanding genomic adaptations, bacteriophage-bacteria dynamics, and microbial functions in diverse environments. I am also passionate about bioinformatics, artificial evolution simulations, and sequencing technologies.
+
+<hr>
+
+
 **Your face here!**
 
 I'm currently accepting graduate students interested in molecular anthropology, the oral microbiome, and bioinformatics!

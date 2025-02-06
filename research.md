@@ -63,6 +63,17 @@ body {
 <div class="flip-box">
   <div class="flip-box-inner">
     <div class="flip-box-front">
+      <img src="diet.png" style="width:300px, height:200px">
+    </div>
+    <div class="flip-box-back">
+     <a href="https://uwyomagelab.github.io/research/inbre-2025"><p>Effect of daily and habitual diet on the oral microbiome</p></a>
+    </div>
+  </div>
+</div>
+
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
       <img src="hiv.png" style="width:300px, height:200px">
     </div>
     <div class="flip-box-back">
