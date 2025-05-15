@@ -4,118 +4,31 @@ title: Research
 subtitle: Current research projects
 ---
 
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+### 🍽️ 🦠 The Effect of Daily and Habitual Diet on the Human Microbiome
 
-.flip-box {
-  background-color: transparent;
-  width: 300px;
-  height: 200px;
-  border: 1px solid #f1f1f1;
-  perspective: 1000px;
-  float: left;
-  margin-right: 60px!important;
-}
+The human mouth is home to a complex microbial ecosystem that plays a critical role in both oral and overall health. Imbalances in this community are linked to tooth decay, gum disease, and even systemic conditions like heart disease and Alzheimer's. While diet is known to influence other microbiomes -- such as those in the gut -- its impact on oral microbes remains poorly understood.
 
-.flip-box-inner {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  transition: transform 0.8s;
-  transform-style: preserve-3d;
-}
+Our research explores how daily and long-term dietary habits affect the composition and activity of oral bacteria and fungi. Using advanced sequencing techniques, we aim to uncover connections between what we eat and the composition and behavior of these microbial communities. By clarifying these relationships, our work could pave the way for better dietary strategies to promote oral and systemic health. 
 
-.flip-box:hover .flip-box-inner {
-  transform: rotateY(180deg);
-}
+[Interested in participating in this research? Click here to learn more!](https://uwyomagelab.github.io/research/inbre-2025/) 
 
-.flip-box-front, .flip-box-back {
-  position: absolute;
-  width: 100%;
-  height: 101%;
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-}
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+### 🧬 📊 Decoding Microbial Activity in Complex Ecosystems
 
-.flip-box-front {
-  background-color: #bbb;
-  color: black;
-  background-size: cover;
-}
+Metatranscriptomics allows us to study how microbes behave in their natural environments by analyzing their gene expression. This approach reveals not only what microbes are present, but also how they function -- unlocking insights into their roles in health and disease. However, the methods for analyzing these complex datasets are still underdeveloped.
 
-.flip-box-back {
-  background-color: lightgrey;
-  color: white;
-  transform: rotateY(180deg);
-  background-size: cover;
-  justify-content: center;
-}
-</style>
-</head>
-<body>
+Our research in this area focuses on developing computational methods to untangle these complex signals. By accounting for variations in microbial ecosystems, and correcting intrinsic errors in our data introduced during sequencing and analysis, we can better interpret gene expression data and identify critical regulatory patterns. Ultimately, this work aims to uncover how microbes fine-tune their functions to support health, paving the way for targeted microbiome-based interventions. 
 
-<div class="flip-box">
-  <div class="flip-box-inner">
-    <div class="flip-box-front">
-      <img src="diet.png" style="width:300px, height:200px">
-    </div>
-    <div class="flip-box-back">
-     <a href="https://uwyomagelab.github.io/research/inbre-2025"><p>Effect of daily and habitual diet on the oral microbiome</p></a>
-    </div>
-  </div>
-</div>
+#### Recent publications: 
+- [*Heterogeneous lineage-specific arginine deiminase expression within dental microbiome species*](https://journals.asm.org/doi/10.1128/spectrum.01445-23). **AE Mann**, B Chakraborty, LM O'Connell, MM Nascimento, RA Burne, VP Richards. *Microbiology Spectrum*. 2024
 
-<div class="flip-box">
-  <div class="flip-box-inner">
-    <div class="flip-box-front">
-      <img src="hiv.png" style="width:300px, height:200px">
-    </div>
-    <div class="flip-box-back">
-      <a href="https://aemann01.github.io/projects/hiv_oral_microbiome/"><p>The role of the human oral microbiome in health and disease</p></a>
-    </div>
-  </div>
-</div>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+### 🦷 ⏳ The Preservation of Biomolecules in Ancient Dental Calculus
 
-<div class="flip-box">
-  <div class="flip-box-inner">
-    <div class="flip-box-front">
-      <img src="dentcalc.png" style="width:300px, height:200px">
-    </div>
-    <div class="flip-box-back">
-     <a href="https://aemann01.github.io/projects/arch_dental_calc/"><p>Preservation of biomolecules in archaeological dental calculus</p></a>
-    </div>
-  </div>
-</div>
+Dental calculus -- the mineralized form of plaque that forms on your teeth -- acts as a remarkable time capsule, preserving molecular clues about our ancestors' health, diet, and microbiome. While this mineralized deposit protects DNA and proteins for centuries, the genetic material still degrades in ways that can skew our interpretations.
 
-<div class="flip-box">
-  <div class="flip-box-inner">
-    <div class="flip-box-front">
-      <img src="ads.png" style="width:300px, height:200px">
-    </div>
-    <div class="flip-box-back">
-      <a href="https://aemann01.github.io/projects/metatranscriptomics/"><p>Microbial metatranscriptomics</p></a>
-    </div>
-  </div>
-</div>
+Our research investigates how biomolecules persist in calculus over time and what limitations this places on reconstructing the past. By identifying systematic biases in these ancient genetic records, we can develop better methods to extract reliable information about historic disease, diets, and lifestyles from archaeological samples. This works bridges archaeology, biological anthropology, and genetics to reveal a more accurate picture of human history through the analysis of ancient dental calculus. 
 
-<div class="flip-box">
-  <div class="flip-box-inner">
-    <div class="flip-box-front">
-      <img src="primate_map.png" style="width:300px, height:200px">
-    </div>
-    <div class="flip-box-back">
-      <a href="https://aemann01.github.io/projects/gut_euks/"><p>Evolution of the hominin gut microbiome</p></a>
-    </div>
-  </div>
-</div>
-
-
-</body>
-</html>
-
+#### Recent publications: 
+- [*Do I have something in my teeth? The trouble with genetic analyses of diet from archaeological dental calculus*](https://www.sciencedirect.com/science/article/pii/S1040618220307746). **AE Mann**, JA Fellows Yates, Z Fagernäs, RM Austin, EA Nelson, CA Hofman. *Quaternary International*. 2023
