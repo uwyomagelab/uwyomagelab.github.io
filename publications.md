@@ -26,6 +26,8 @@ Lab member names in **bold**
 
 ### 2023
 
+- [*Supragingival mycobiome of HIV-exposed-but-uninfected children reflects a stronger correlation with caries-free associated taxa compared to HIV-infected or uninfected children*](https://journals.asm.org/doi/10.1128/spectrum.01491-23). LM O'Connell, **AE Mann**, E Osagie, P Akhigbe, T Blouin, A Soule, O Obuekwe, A Omoigberale, RA Burne, MO Coker, VP Richards. *Microbiology Spectrum*. 2023
+
 - [*A synthetic formula amino acid diet leads to microbiome dysbiosis, reduced colon length, inflammation, and altered locomoter activity in C57BL/6J mice*](https://www.mdpi.com/2076-2607/11/11/2694/htm). VJ Mancilla, PN Braden-Kuhle, KN Brice, **AE Mann**, MT Williams, Y Zhang, MJ Chumley, RC Barber, SN White, GW Boehm, MS Allen. *Microorganisms*. 2023
 
 - [*Impact of HIV on the oral microbiome of children living in Sub-Saharan Africa, Determined by using an rpoC gene fragment metataxonomic approach*](https://journals.asm.org/doi/10.1128/spectrum.00871-23). **AE Mann**, LM O'Connell, E Osagie, P Akhigbe, O Obuekwe, A Omoigberale, C Kelly, M Coker, VP Richards. *Microbiology Spectrum*. 2023
