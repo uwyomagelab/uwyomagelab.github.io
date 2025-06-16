@@ -8,7 +8,7 @@ Lab member names in **bold**
 
 ### 2025 
 
-- [*HIV infection and exposure increases cariogenic taxa, reduces taxonomic turnover, and homogenizes spatial differentiation for the supragingival microbiome*](https://www.researchsquare.com/article/rs-4720457/v1). **AE Mann**, C Aumend, S Crull, LM O'Connell, E Osagie, P Akhibe, O Obuekwe, A Omoigberale, M Rowe, T Blouin, A Soule, C Kelly, the DOMHaIN Study Team, RA Burne, M Coker, VP Richards. **In Press**. *Microbiome*. 2025
+- [*HIV infection and exposure increases cariogenic taxa, reduces taxonomic turnover, and homogenizes spatial differentiation for the supragingival microbiome*](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-025-02123-9). **AE Mann**, C Aumend, S Crull, LM O'Connell, E Osagie, P Akhibe, O Obuekwe, A Omoigberale, M Rowe, T Blouin, A Soule, C Kelly, the DOMHaIN Study Team, RA Burne, M Coker, VP Richards. *Microbiome*. 2025
 
 - [*Seasonal host shifts for Legionella within an industrial water-cooling system*](https://www.authorea.com/users/882105/articles/1260731-seasonal-host-shifts-for-legionella-within-an-industrial-water-cooling-system). S Crull, E Hammer, **AE Mann**, L O'Connell, A Soule, E Griffith, T Blouin, R Brigmon, VP Richards. **In Press**. *Environmental Microbiology Reports*. 2025
 
