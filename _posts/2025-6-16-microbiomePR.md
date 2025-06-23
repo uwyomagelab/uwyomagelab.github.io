@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instability of the oral microbiome over space and time in children living with HIV
+title: Stability of the oral microbiome over space and time in children living with HIV
 subtitle: 
 gh-repo: 
 gh-badge:
