@@ -25,3 +25,7 @@ style="font-size:25px;padding-left:5px;padding-right:5px"></i></a>
 
 <hr>
 
+<img align="right" height="200" src="/assets/img/DJ.png"> 
+**DJ Lueloff, Undergraduate Research Assistant and McNair Scholar** 
+<br/>
+<br/>I'm a paleo anthropologist/geneticist interested in where humans come from and how we relate to our evolutionary ancestors. My research lies in the study of Neanderthal, ancient human, Denisovan, and hopefully one day <i>Homo erectus</i> genomes. I am particularly interested at the moment in the significance of genetic introgression between Neanderthals and modern humans. 
