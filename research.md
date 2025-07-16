@@ -24,6 +24,13 @@ Our research in this area focuses on developing computational methods to untangl
 - [*Heterogeneous lineage-specific arginine deiminase expression within dental microbiome species*](https://journals.asm.org/doi/10.1128/spectrum.01445-23). **AE Mann**, B Chakraborty, LM O'Connell, MM Nascimento, RA Burne, VP Richards. *Microbiology Spectrum*. 2024
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+### 🌍 📈  Modeling Human Evolution and Global Demographic Changes Over Time
+
+Modern human populations carry the genetic signature of our recent and distant evolutionary pasts. Demographic events including ancient introgression events with extinct hominin groups, periods of isolation and expansion, and changing environmental pressures are all recorded in patterns of human genetic variation seen today. 
+
+Our research in this area combines population genetics theory and computational modeling to reconstruct key events in human evolutionary history. Current projects in this area include ancient introgression events in Pleistocene hominins and the consequences of founder effects in small isolated populations. By combining genomic data analysis with statistical modeling techniques, we aim to better understand how these events have shaped human genetic diversity. 
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 ### 🦷 ⏳ The Preservation of Biomolecules in Ancient Dental Calculus
 
 Dental calculus -- the mineralized form of plaque that forms on your teeth -- acts as a remarkable time capsule, preserving molecular clues about our ancestors' health, diet, and microbiome. While this mineralized deposit protects DNA and proteins for centuries, the genetic material still degrades in ways that can skew our interpretations.
