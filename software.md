@@ -37,7 +37,7 @@ subtitle: Data and software resources
         
         .btn {
             display: inline-block;
-            background-color: #3498db;
+            background-color: #38231B;
             color: white;
             padding: 8px 15px;
             text-decoration: none;
@@ -48,15 +48,15 @@ subtitle: Data and software resources
         }
         
         .btn:hover {
-            background-color: #2980b9;
+            background-color: #FDB91D;
         }
         
         .btn-secondary {
-            background-color: #7f8c8d;
+            background-color: #38231B;
         }
         
         .btn-secondary:hover {
-            background-color: #6c7a7d;
+            background-color: #FDB91D;
         }
         
         .software-image {
