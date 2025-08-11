@@ -26,4 +26,4 @@ If you have any questions, please don’t hesitate to reach out to me directly a
 
 Thank you again for considering being part of this research. 
 
-### [Take the inital survey here!](https://uwyo.sjc1.qualtrics.com/jfe/form/SV_1RggThYmEfTbB78)
+## [Take the inital survey here!](https://uwyo.sjc1.qualtrics.com/jfe/form/SV_1RggThYmEfTbB78)
