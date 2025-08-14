@@ -15,7 +15,7 @@ If you decide to participate, here is what you can expect:
 1.	Online survey: You will first be asked to complete an online survey about your dietary habits, oral hygiene practices, and general demographics (such as age and gender). This survey will take approximately 20 minutes to complete.
 2.	Follow-up visit (if eligible): If you qualify for the next phase of the study, you will be invited to a follow-up meeting. During this visit, you will:
 
--	Be given a non-invasive oral swab sample to collect your plaque at night 2 hours after eating your final meal of the day
+-	Be given a non-invasive oral swab sample to collect your plaque at night at least 1 hour after eating your final meal of the day
 -	Be given a code to complete a 24-hour dietary recall survey to provide more detailed information about your recent food intake
 
 This visit will take place in my lab (George C. Frison Building, Room #349) or office (Frison #210) on campus and will last about 10 to 15 minutes. During this visit you will be provided with your sampling kit and instructions. I will work with you to schedule a time that fits your availability. 
