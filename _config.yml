@@ -22,7 +22,6 @@ author: Allison E. Mann
 navbar-links:
   People: "people"
   Research: "research"
-  Software: "software"
   Publications: "publications"
   Lab: "facilities"
   Resources:
@@ -30,6 +29,7 @@ navbar-links:
     - Contact: "contact"
     - Lab Code of Conduct: "assets/pdf/MAGE_code_of_conduct.pdf"
     - Bioinfo Cheat Sheet: "assets/pdf/bioinformatics_cheat_sheet.pdf"
+    - Software: "software"
 
 ################
 # --- Logo --- #
