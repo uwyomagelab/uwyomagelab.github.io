@@ -25,6 +25,20 @@ style="font-size:25px;padding-left:5px;padding-right:5px"></i></a>
 
 <hr>
 
+<img align="right" height="200" src=""> 
+**Alaina Evers, PhD Student** 
+<br/>
+<br/>TBD!
+
+<hr>
+
+<img align="right" height="200" src="/assets/img/sophiaeberts.png"> 
+**Sophia Eberts, Masters Student** 
+<br/>
+<br/>I am an anthropologist with many interests in the fields of biological anthropology, archaeology, and geology. My current research is focused on testing DNA extraction methods from fish scales that have been preserved in different ways (fresh, dried, etc) as well as working on decontamination protocols for these samples. The ultimate goal of this is to use the DNA from the preserved scales to do whole-genome shotgun sequencing.
+
+<hr>
+
 <img align="right" height="200" src="/assets/img/DJ.png"> 
 **DJ Lueloff, Undergraduate Research Assistant and McNair Scholar** 
 <br/>
