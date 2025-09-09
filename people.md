@@ -14,8 +14,6 @@ subtitle: Current and past lab members
 style="font-size:25px;padding-left:5px;padding-right:5px"></i></a>
 <a href="https://orcid.org/0000-0001-7170-6017" title="ORCID"><i class="fab fa-orcid" style="font-size:25px;padding-left:5px;padding-right:5px"></i></a>
 <a href="https://github.com/aemann01" title="GitHub"><i class="fab fa-github" style="font-size:25px;padding-left:5px;padding-right:5px"></i></a>
-<a href="https://aemann01.github.io/" title="Web site"><i class="fas fa-home" style="font-size:25px;padding-left:5px;padding-right:5px"></i></a>
-
 
 <hr>
 
@@ -25,10 +23,10 @@ style="font-size:25px;padding-left:5px;padding-right:5px"></i></a>
 
 <hr>
 
-<img align="right" height="200" src=""> 
+<img align="right" height="200" src="/assets/img/lainieevers.jpg"> 
 **Alaina Evers, PhD Student** 
 <br/>
-<br/>TBD!
+<br/>I am a bioarchaeologist with interests in human osteology, mortuary archaeology, and ancient DNA. My past research focuses have been on how skeletal remains can reveal information about past health, diet, and lived experiences. I am particularly interested in combining osteological and genetic analyses to reconstruct the lifeways of past populations. In addition to research, I am committed to repatriation efforts and to promoting justice for the deceased through ethical engagement with human remains.
 
 <hr>
 
