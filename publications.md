@@ -8,6 +8,8 @@ Lab member names in **bold**
 
 ### 2025 
 
+- [*The oral microbiome of King Richard III of England*](https://www.biorxiv.org/content/10.1101/2025.09.21.677585v1). IM Velsko, A Hübner, Z Fagernäs, J Fellows Yates, **AE Mann**, C Hofman, AT Ozga, CM Lewis Jr., C Speller, S Fiddyment, M Francken, J Wahl, J Krause, A Radini, T King, C Warinner. *bioRxiv*. Preprint
+
 - [*Seasonal host shifts for Legionella within an industrial water-cooling system*](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70132). S Crull, E Hammer, **AE Mann**, L O'Connell, A Soule, E Griffith, T Blouin, R Brigmon, VP Richards. *Environmental Microbiology Reports*. 2025
 
 - [*HIV infection and exposure increases cariogenic taxa, reduces taxonomic turnover, and homogenizes spatial differentiation for the supragingival microbiome*](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-025-02123-9). **AE Mann**, C Aumend, S Crull, LM O'Connell, E Osagie, P Akhigbe, O Obuekwe, A Omoigberale, M Rowe, T Blouin, A Soule, C Kelly, the DOMHaIN Study Team, RA Burne, M Coker, VP Richards. *Microbiome*. 2025
