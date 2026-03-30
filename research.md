@@ -5,6 +5,13 @@ subtitle: Current research projects
 ---
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+### 💦 How Does Salivary Flow and Chemistry Impact the Oral Cavity in Health and Disease?
+
+Saliva is essential for maintaining a healthy oral environment. It helps wash away food particles, buffers against acids in the mouth, delivers antimicrobial molecules, and supports the balance of microbes that live in the mouth. When salivary flow or chemistry changes the oral ecosystem can shift in ways that increase the risk of tooth decay, gum disease, and other health problems.
+
+Our research investigates how differences in salivary flow, composition, and immune activity influences the oral microbiome and its interactions with the host immune system. This work will help to identify mechanisms linking oral microbiome imbalance to diseases and may ultimately lead to new strategies for prevention and treatment. 
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 ### 🍽️ 🦠 The Effect of Daily and Habitual Diet on the Human Microbiome
 
 The human mouth is home to a complex microbial ecosystem that plays a critical role in both oral and overall health. Imbalances in this community are linked to tooth decay, gum disease, and even systemic conditions like heart disease and Alzheimer's. While diet is known to influence other microbiomes -- such as those in the gut -- its impact on oral microbes remains poorly understood.
