@@ -5,14 +5,14 @@ subtitle: Current research projects
 ---
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-### 💦 How Does Salivary Flow and Chemistry Impact the Oral Cavity in Health and Disease?
+### How Does Salivary Flow and Chemistry Impact the Oral Cavity in Health and Disease?
 
 Saliva is essential for maintaining a healthy oral environment. It helps wash away food particles, buffers against acids in the mouth, delivers antimicrobial molecules, and supports the balance of microbes that live in the mouth. When salivary flow or chemistry changes the oral ecosystem can shift in ways that increase the risk of tooth decay, gum disease, and other health problems.
 
 Our research investigates how differences in salivary flow, composition, and immune activity influences the oral microbiome and its interactions with the host immune system. This work will help to identify mechanisms linking oral microbiome imbalance to diseases and may ultimately lead to new strategies for prevention and treatment. 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-### 🍽️ 🦠 The Effect of Daily and Habitual Diet on the Human Microbiome
+### The Effect of Daily and Habitual Diet on the Human Microbiome
 
 The human mouth is home to a complex microbial ecosystem that plays a critical role in both oral and overall health. Imbalances in this community are linked to tooth decay, gum disease, and even systemic conditions like heart disease and Alzheimer's. While diet is known to influence other microbiomes -- such as those in the gut -- its impact on oral microbes remains poorly understood.
 
@@ -21,7 +21,7 @@ Our research explores how daily and long-term dietary habits affect the composit
 [Interested in participating in this research? Click here to learn more!](https://uwyomagelab.github.io/research/inbre-2025/) 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-### 🧬 📊 Decoding Microbial Activity in Complex Ecosystems
+### Decoding Microbial Activity in Complex Ecosystems
 
 Metatranscriptomics allows us to study how microbes behave in their natural environments by analyzing their gene expression. This approach reveals not only what microbes are present, but also how they function -- unlocking insights into their roles in health and disease. However, the methods for analyzing these complex datasets are still underdeveloped.
 
@@ -31,14 +31,14 @@ Our research in this area focuses on developing computational methods to untangl
 - [*Heterogeneous lineage-specific arginine deiminase expression within dental microbiome species*](https://journals.asm.org/doi/10.1128/spectrum.01445-23). **AE Mann**, B Chakraborty, LM O'Connell, MM Nascimento, RA Burne, VP Richards. *Microbiology Spectrum*. 2024
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-### 🌍 📈  Modeling Human Evolution and Global Demographic Changes Over Time
+### Modeling Human Evolution and Global Demographic Changes Over Time
 
 Modern human populations carry the genetic signature of our recent and distant evolutionary pasts. Demographic events including ancient introgression events with extinct hominin groups, periods of isolation and expansion, and changing environmental pressures are all recorded in patterns of human genetic variation seen today. 
 
 Our research in this area combines population genetics theory and computational modeling to reconstruct key events in human evolutionary history. Current projects in this area include ancient introgression events in Pleistocene hominins and the consequences of founder effects in small isolated populations. By combining genomic data analysis with statistical modeling techniques, we aim to better understand how these events have shaped human genetic diversity. 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-### 🦷 ⏳ The Preservation of Biomolecules in Ancient Dental Calculus
+### The Preservation of Biomolecules in Ancient Dental Calculus
 
 Dental calculus -- the mineralized form of plaque that forms on your teeth -- acts as a remarkable time capsule, preserving molecular clues about our ancestors' health, diet, and microbiome. While this mineralized deposit protects DNA and proteins for centuries, the genetic material still degrades in ways that can skew our interpretations.
 
