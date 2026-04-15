@@ -38,11 +38,3 @@ Modern human populations carry the genetic signature of our recent and distant e
 Our research in this area combines population genetics theory and computational modeling to reconstruct key events in human evolutionary history. Current projects in this area include ancient introgression events in Pleistocene hominins and the consequences of founder effects in small isolated populations. By combining genomic data analysis with statistical modeling techniques, we aim to better understand how these events have shaped human genetic diversity. 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-### The Preservation of Biomolecules in Ancient Dental Calculus
-
-Dental calculus -- the mineralized form of plaque that forms on your teeth -- acts as a remarkable time capsule, preserving molecular clues about our ancestors' health, diet, and microbiome. While this mineralized deposit protects DNA and proteins for centuries, the genetic material still degrades in ways that can skew our interpretations.
-
-Our research investigates how biomolecules persist in calculus over time and what limitations this places on reconstructing the past. By identifying systematic biases in these ancient genetic records, we can develop better methods to extract reliable information about historic disease, diets, and lifestyles from archaeological samples. This works bridges archaeology, biological anthropology, and genetics to reveal a more accurate picture of human history through the analysis of ancient dental calculus. 
-
-#### Recent publications: 
-- [*Do I have something in my teeth? The trouble with genetic analyses of diet from archaeological dental calculus*](https://www.sciencedirect.com/science/article/pii/S1040618220307746). **AE Mann**, JA Fellows Yates, Z Fagernäs, RM Austin, EA Nelson, CA Hofman. *Quaternary International*. 2023
