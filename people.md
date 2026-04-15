@@ -4,6 +4,9 @@ title: People
 subtitle: Current and past lab members
 ---
 
+Currently accepting Master's students interested in improving dietary analysis from archaeological substrates through modern genome 
+sequencing, oral microbiology, and/or the microbiology of food fermentation! 
+
 <img align="right" height="200" src="/assets/img/allie.png"> 
 **Dr. Allison E. Mann, Assistant Professor** 
 <br/>
