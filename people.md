@@ -31,16 +31,17 @@ style="font-size:25px;padding-left:5px;padding-right:5px"></i></a>
 <br/>
 <br/>I am a bioarchaeologist with interests in human osteology, mortuary archaeology, and ancient DNA. My past research focuses have been on how skeletal remains can reveal information about past health, diet, and lived experiences. I am particularly interested in combining osteological and genetic analyses to reconstruct the lifeways of past populations. In addition to research, I am committed to repatriation efforts and to promoting justice for the deceased through ethical engagement with human remains.
 
+<hr style="border-top: 3px solid #ccc; margin: 30px 0;">
+
+## Former Lab Members
+
+<hr style="border-top: 3px solid #ccc; margin: 30px 0;">
+
+*Sophia Eberts, M.A.*
+<br/> Sophia is now a PhD student at the University of Illinois Urbana-Champaign
 <hr>
 
-<img align="right" height="200" src="/assets/img/sophiaeberts.png"> 
-**Sophia Eberts, Masters Student** 
-<br/>
-<br/>I am an anthropologist with many interests in the fields of biological anthropology, archaeology, and geology. My current research is focused on testing DNA extraction methods from fish scales that have been preserved in different ways (fresh, dried, etc) as well as working on decontamination protocols for these samples. The ultimate goal of this is to use the DNA from the preserved scales to do whole-genome shotgun sequencing.
-
+*DJ Lueloff, B.A.*
+<br/> DJ is now working as a postbaccalaureate research assistant at the Oklahoma Medical Research Foundation
 <hr>
 
-<img align="right" height="200" src="/assets/img/DJ.png"> 
-**DJ Lueloff, Undergraduate Research Assistant and McNair Scholar** 
-<br/>
-<br/>I'm a paleo anthropologist/geneticist interested in where humans come from and how we relate to our evolutionary ancestors. My research lies in the study of Neanderthal, ancient human, Denisovan, and hopefully one day <i>Homo erectus</i> genomes. I am particularly interested at the moment in the significance of genetic introgression between Neanderthals and modern humans. 
