@@ -33,6 +33,13 @@ style="font-size:25px;padding-left:5px;padding-right:5px"></i></a>
 
 <hr style="border-top: 3px solid #ccc; margin: 30px 0;">
 
+<img align="right" height="200" src="/assets/img/eddy.jpeg"> 
+**Michaela Eddy, MA Student** 
+<br/>
+<br/>I am a masters student in Human Nutrition and Food Science at the University of Wyoming. I earned dual, concurrent Bachelor of Sciences degrees in Human Nutrition and Honors, along with Bachelors of Arts degrees in International Studies and Religious Studies. My long-term goal is to continue into doctoral study and a career in research and healthcare, with interests spanning nutrigion, neuroscience, microbiome, health behavior, longevity, and cultural perspectives of health.
+
+<hr style="border-top: 3px solid #ccc; margin: 30px 0;">
+
 ## Former Lab Members
 
 <hr style="border-top: 3px solid #ccc; margin: 30px 0;">
