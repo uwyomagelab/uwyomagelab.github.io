@@ -40,6 +40,12 @@ style="font-size:25px;padding-left:5px;padding-right:5px"></i></a>
 
 <hr style="border-top: 3px solid #ccc; margin: 30px 0;">
 
+**Holly Ward, Undergraduate Research Assistant and McNair Scholar** 
+<br/>
+<br/>I am an undergraduate student working towards a bachelor's degree in Anthropology. Presently, I am learning more about DNA, extraction processes, and how DNA is best preserved for greater yield. I am interested in taphonomic changes to human remains, osteology and skeletal variations, criminal investigations into missing and unidentified persons and - unrelated to all the above - taking pictures of flowers around town. 
+
+<hr style="border-top: 3px solid #ccc; margin: 30px 0;">
+
 <img align="right" height="200" src="/assets/img/sarah_cruser.jpg"> 
 **Sarah Cruser, Summer Student Research Assistant** 
 <br/>
