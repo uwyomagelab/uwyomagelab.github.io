@@ -46,16 +46,11 @@ style="font-size:25px;padding-left:5px;padding-right:5px"></i></a>
 
 <hr style="border-top: 3px solid #ccc; margin: 30px 0;">
 
-<img align="right" height="200" src="/assets/img/sarah_cruser.jpg"> 
-**Sarah Cruser, Summer Student Research Assistant** 
-<br/>
-<br/>I am a high school molecular biology researcher with expertise in genomics, transcriptomics, and proteomics. My prior research focuses on identifying the role of particular genes in modulating neurodegeneration and regeneration. I am particularly interested in expanding from single-gene analyses to genome-wide analyses to uncover the broader genetic mechanisms underlying evolution, adaptation, and speciation across diverse organisms.
-
-<hr style="border-top: 3px solid #ccc; margin: 30px 0;">
-
 ## Former Lab Members
 
 <hr style="border-top: 3px solid #ccc; margin: 30px 0;">
+
+*Sara Cruser, Summer Student Research Assistant*
 
 *Sophia Eberts, M.A.*
 <br/> Sophia is now a PhD student at the University of Illinois Urbana-Champaign
