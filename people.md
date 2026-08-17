@@ -50,7 +50,7 @@ style="font-size:25px;padding-left:5px;padding-right:5px"></i></a>
 
 <hr style="border-top: 3px solid #ccc; margin: 30px 0;">
 
-*Sara Cruser, Summer Student Research Assistant*
+*Sarah Cruser, Summer Student Research Assistant*
 
 *Sophia Eberts, M.A.*
 <br/> Sophia is now a PhD student at the University of Illinois Urbana-Champaign
