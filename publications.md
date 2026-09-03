@@ -6,9 +6,13 @@ subtitle: Selected publications and preprints
 
 Lab member names in **bold**
 
-### 2025 
+### 2026
 
-- [*The oral microbiome of King Richard III of England*](https://www.biorxiv.org/content/10.1101/2025.09.21.677585v1). IM Velsko, A Hübner, Z Fagernäs, J Fellows Yates, **AE Mann**, C Hofman, AT Ozga, CM Lewis Jr., C Speller, S Fiddyment, M Francken, J Wahl, J Krause, A Radini, T King, C Warinner. *bioRxiv*. Preprint
+- [*The oral microbiome of King Richard III of England*](https://onlinelibrary.wiley.com/doi/10.1002/ajpa.70350). IM Velsko, A Hübner, Z Fagernäs, J Fellows Yates, **AE Mann**, C Hofman, AT Ozga, CM Lewis Jr., C Speller, S Fiddyment, M Francken, J Wahl, J Krause, A Radini, T King, C Warinner. *American Journal of Biological Anthropology*. 2026 
+
+<hr>
+
+### 2025 
 
 - [*Seasonal host shifts for Legionella within an industrial water-cooling system*](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70132). S Crull, E Hammer, **AE Mann**, L O'Connell, A Soule, E Griffith, T Blouin, R Brigmon, VP Richards. *Environmental Microbiology Reports*. 2025
 
